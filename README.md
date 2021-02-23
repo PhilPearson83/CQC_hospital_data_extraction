@@ -14,15 +14,11 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 
 ```
 .
-├── data
-│   ├──
-│   ├──
-│   └──
 ├── .gitignore
 ├── Licence
 ├── README.md
-├── compare_ml_algorithms.py
-└── requirements.txt
+├── cqc_hospitals.csv
+└── hospital_extraction.py
 ```
 
 ### Installation
