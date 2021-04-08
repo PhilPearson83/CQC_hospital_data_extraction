@@ -25,7 +25,8 @@ def getHospitals():
     print(dfz.head())
     print(dfz.info())
 # check if csv file exist, if not generate new data
-if os.path.exists('cqc_hospitals.csv') == False:
+if os.path.exists('cqc_hospitals.csv') == True:
+    print('***CQC hospital csv already exists***')
+elif os.path.exists('cqc_hospitals.csv') == False:
     getHospitals()
     print('***CQC hospital csv generated***')
-print('***CQC hospital csv already exists***')
