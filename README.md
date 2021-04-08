@@ -18,7 +18,8 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 ├── Licence
 ├── README.md
 ├── cqc_hospitals.csv
-└── hospital_extraction.py
+├── hospital_extraction.py
+└── requirements.txt
 ```
 
 ### Installation
