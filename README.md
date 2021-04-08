@@ -15,7 +15,7 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 ```
 .
 ├── .gitignore
-├── Licence
+├── License
 ├── README.md
 ├── cqc_hospitals.csv
 ├── hospital_extraction.py
